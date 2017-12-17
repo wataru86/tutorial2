@@ -1,0 +1,3 @@
+[submodule "stepup-tutorial/sub1"]
+	path = stepup-tutorial/sub1
+	url = git@github.com:wataru86/sub1.git
