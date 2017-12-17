@@ -7,3 +7,6 @@
 [submodule "stepup-tutorial/sub3"]
 	path = stepup-tutorial/sub3
 	url = git@github.com:wataru86/sub3.git
+[submodule "stepup-tutorial/sub4"]
+	path = stepup-tutorial/sub4
+	url = git@github.com:wataru86/sub4.git
